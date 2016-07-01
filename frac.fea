@@ -1,0 +1,10 @@
+@digit = [zero one two three four five six seven eight nine];
+@numer = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
+@denom = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
+
+feature frac {
+	sub slash by fraction; 
+	sub @digit by @numer;
+	sub fraction @numer' by @denom;
+	sub @denom @numer' by @denom;
+} frac;
