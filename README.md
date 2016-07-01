@@ -1,7 +1,7 @@
 # Some Time Later...
 Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob SquarePants
 
-[Click here to download the font](https://github.com/ctrlcctrlv/some-time-later/raw/master/Some%20Time%20Later.otf])
+[Click here to download the font](https://github.com/ctrlcctrlv/some-time-later/raw/master/Some%20Time%20Later.otf)
 
 ![http://i.imgur.com/afvcqWv.jpg](http://i.imgur.com/afvcqWv.jpg)
 ![https://i.imgur.com/TRcdie5.jpg](https://i.imgur.com/TRcdie5.jpg)
