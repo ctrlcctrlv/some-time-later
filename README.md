@@ -5,6 +5,7 @@ Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob S
 
 ![http://i.imgur.com/afvcqWv.jpg](http://i.imgur.com/afvcqWv.jpg)
 ![https://i.imgur.com/TRcdie5.jpg](https://i.imgur.com/TRcdie5.jpg)
+![https://i.imgur.com/tfDLyex.jpg](https://i.imgur.com/tfDLyex.jpg)
 
 ## The below is a text only version of the above for screen readers and search engines.
 
@@ -42,3 +43,19 @@ https://github.com/ctrlcctrlv/some-time-later
 
 If you want to show your support for the time it took me to make this font, you can send Bitcoin to 
 1KR2SithJueNs93y6JV7zdE17q3xgLWKSx
+
+Version 2 update information
+
+some Time Later has been updated and has the following new features:
+
+* Cyrillic character set! A friend sent me an image of a SpongeBob comic book published in Russia. Normally I wouldn't care about something like that, but it showed that the size of the canon was larger than I previously thought! I diligently sought out as much material as I could find online about the comic and got to digitizing. If you find a problem, please let me know.
+
+Unfortunately, I had a lot of trouble finding the lowercase. I believe that in order to save time, the producers of the comic book used a different, but similar font for the lowercase and only made Cyrillic capitals. The font that they used for the lowercase is a different SpongeBob font called "SpongeFont SquareType" (which ironically, the version online also has no Cyrillic charset - maybe that's my next project).
+
+Luckily for you I know enough about font design to make the lower case by myself...Nickelodeon should be paying me for this :D
+У меня было много веселья делает кириллический набор символов. НАСЛАЖДАТЬСЯ! Моя семья на самом деле украинский лол
+
+* experimental auto-kerning via FontForge's auto-kern algorithm. If you think it's kerned too tightly let me know (KERN)
+* a new alternate character which is used in the Russian SpongeBob logo: a -> a (SALT)
+
+
