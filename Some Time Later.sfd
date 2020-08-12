@@ -24252,7 +24252,7 @@ Ligature2: "SomeTimeHebrew-'ccmp' Glyph Composition/Decomposition in Hebrew look
 EndChar
 
 StartChar: uni05B105BD
-Encoding: -1 -1 1177
+Encoding: 8797 -1 1177
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -24317,7 +24317,7 @@ Ligature2: "SomeTimeHebrew-'ccmp' Glyph Composition/Decomposition in Hebrew look
 EndChar
 
 StartChar: uni05B205BD
-Encoding: -8796 -1 1178
+Encoding: 8798 -1 1178
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -24360,7 +24360,7 @@ Ligature2: "SomeTimeHebrew-'ccmp' Glyph Composition/Decomposition in Hebrew look
 EndChar
 
 StartChar: uni05B305BD
-Encoding: -1 -1 1179
+Encoding: 8799 -1 1179
 Width: 0
 GlyphClass: 4
 Flags: W
