@@ -1,0 +1,8 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# For Pe̍h-ōe-jī
+feature ccmp {
+	sub i' uni030D by dotlessi;
+	sub I' uni030D by dotlessI;
+} ccmp;
