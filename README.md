@@ -9,6 +9,16 @@ Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob S
 ![https://i.imgur.com/TRcdie5.jpg](https://i.imgur.com/TRcdie5.jpg)
 ![https://i.imgur.com/tfDLyex.jpg](https://i.imgur.com/tfDLyex.jpg)
 
+## License
+
+This font is released under the SIL Open Font License (OFL), see the file `LICENSE` in the repository.
+
+Before December 14 2020 ([`350de38f`](https://github.com/ctrlcctrlv/some-time-later/commit/350de38f6cb6aed49eed6ff3b3fae169ccf9c0eb)), I reserved the font name «Some Time Later». I removed this legal requirement, and this applies retroactively. You may modify _any_ version of Some Time Later and redistribute your changes under the same name as long as you credit me and redistribute the license file.
+
+I never meant to reserve a font name in the first place and didn't understand the legal implications as it was at the time a FontForge default. _Cf_. [fontforge/fontforge#4434](https://github.com/fontforge/fontforge/issues/4434).
+
+Some glyphs in this font and OpenType features were copied from Noto Sans Hebrew, © Google Inc. That font is also an open source SIL OFL font. I'm gradually moving towards removing these glyphs.
+
 ## The below is a text only version of the above for screen readers and search engines.
 
 Some Time Later is a recreation of the classic SpongeBob Squarepants™ typeface used in the credits, in the title cards of some episodes and most famously in the time cards.
