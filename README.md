@@ -3,7 +3,7 @@ Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob S
 
 [Click here to download the font](https://github.com/ctrlcctrlv/some-time-later/raw/master/Some%20Time%20Later.otf)
 
-**Note**: _The current version of the font, version 3.1 (March 11 2018), has full support for almost all languages written in the Latin alphabet (so, French, Spanish, Polish, -- even rare ones like Esperanto), all languages written in Cyrillic (Russian, Ukranian, etc), Greek, and Hebrew. The font has 1,177 glyphs._
+**Note**: _The current version of the font, version 3.3 (December 13 2020), has full support for almost all languages written in the Latin alphabet (so, French, Spanish, Polish—even rare ones like Esperanto), all languages written in Cyrillic (Russian, Ukranian, etc), Greek, and Hebrew. The font has 1,182 glyphs._
 
 ![http://i.imgur.com/afvcqWv.jpg](http://i.imgur.com/afvcqWv.jpg)
 ![https://i.imgur.com/TRcdie5.jpg](https://i.imgur.com/TRcdie5.jpg)
